@@ -9,4 +9,4 @@ The first data batch we achieved to collect is made of all the packets leaving a
 
 The first data exploration allowed us to confirm the great disparity in the number of packets exchanged according to the IP Address, as we had imagined. However, all the exchanged are mainly concentrated on a few IP Addresses, which gives us hope of a clear data visualisations. Indeed, in our project, it will be better if we have only a dozen hub of connections in order to discriminate more efficiently various huge Internet content providers - such as Amazon, Youtube, Netflix, ...
 
-The raw data used for the first analysis can be found in the `first_analysis` folder, under the name of `fa_packets_data.txt`.
+The raw data used for the first analysis can be found in the `first_analysis` folder, under the name of `fa_packets_data_sample.txt`.
